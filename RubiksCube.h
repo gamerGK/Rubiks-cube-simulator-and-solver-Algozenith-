@@ -1,5 +1,5 @@
 //
-// Created by Rohan Kumar.
+// Created by Gaurav Kumar.
 //
 
 #ifndef RUBIKS_CUBE_SOLVER_RUBIKSCUBE_H
